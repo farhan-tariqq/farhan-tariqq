@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **web and app development**
 
-- 👨‍💻 All of my projects are available at [https://farhan-protfolio.netlify.app/](https://farhan-protfolio.netlify.app/)
-
 - 📫 How to reach me **farhantariq087@gmail.com**
 
 - 📄 Know about my experiences [Fresh Candidate](Fresh Candidate)
